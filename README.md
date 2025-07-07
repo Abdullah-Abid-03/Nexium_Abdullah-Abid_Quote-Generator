@@ -5,3 +5,7 @@ This repo is a part of my Internship at Nexium where I will be creating 'Quote G
 In this project, I have created the Quote Generator webapp that gives the quote when the user selects the topic.  All related quotes will be presented to the user when he select from the avilable the topic.
 
 This project is created using Shadcn, Next.js, and Tailwind CSS.
+
+USER INTERFACE:
+![image](https://github.com/user-attachments/assets/b817f903-389b-45e7-918f-8c6c1db0cfb3)
+
