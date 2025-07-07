@@ -2,7 +2,6 @@
 
 import { useState } from "react"
 import { quotes, topics } from "../quotes"
-import { Input } from "@/components/ui/input"
 import { Button } from "@/components/ui/button"
 import { motion } from "framer-motion"
 
