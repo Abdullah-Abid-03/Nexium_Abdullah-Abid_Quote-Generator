@@ -6,7 +6,7 @@ In this project, I have created the Quote Generator webapp that gives the quote 
 
 This project is created using Shadcn, Next.js, and Tailwind CSS.
 
-USER INTERFACE:
+## USER INTERFACE:
 ![image](https://github.com/user-attachments/assets/b817f903-389b-45e7-918f-8c6c1db0cfb3)
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
